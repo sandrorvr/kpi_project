@@ -1,0 +1,2 @@
+Aqui será salvo os aquivos gerados pelo script.
+Será salvo um grafico e um arquivo de relatório
